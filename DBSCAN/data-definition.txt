@@ -1,0 +1,12 @@
+
+Attribute 1 : Number of reviews on stadiums, sports complex, etc. 
+Attribute 2 : Number of reviews on religious institutions 
+Attribute 3 : Number of reviews on beach, lake, river, etc. 
+Attribute 4 : Number of reviews on theatres, exhibitions, etc. 
+Attribute 5 : Number of reviews on malls, shopping places, etc. 
+Attribute 6 : Number of reviews on parks, picnic spots, etc.
+
+
+
+This dataset was populated from destination reviews published by 249 reviewers of an online touristic web site. 
+Reviews falling in 6 categories and the count of reviews in each category for every reviewer (traveller) is recorded.

@@ -1,0 +1,10 @@
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\bin\Debug\DBSCAN.exe.config
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\bin\Debug\DBSCAN.exe
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\bin\Debug\DBSCAN.pdb
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\obj\Debug\DBSCAN.csprojAssemblyReference.cache
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\obj\Debug\DBSCAN.Form1.resources
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\obj\Debug\DBSCAN.Properties.Resources.resources
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\obj\Debug\DBSCAN.csproj.GenerateResource.cache
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\obj\Debug\DBSCAN.csproj.CoreCompileInputs.cache
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\obj\Debug\DBSCAN.exe
+C:\Users\Recep\source\repos\DBSCAN\DBSCAN\obj\Debug\DBSCAN.pdb
